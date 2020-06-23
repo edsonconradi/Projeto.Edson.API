@@ -4,3 +4,9 @@ C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.DTO\obj\Debug\Projeto.Edson.DTO.
 C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.DTO\obj\Debug\Projeto.Edson.DTO.csproj.CoreCompileInputs.cache
 C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.DTO\obj\Debug\Projeto.Edson.DTO.dll
 C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.DTO\obj\Debug\Projeto.Edson.DTO.pdb
+C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.DTO\bin\Debug\Projeto.Edson.DTO.dll
+C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.DTO\bin\Debug\Projeto.Edson.DTO.pdb
+C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.DTO\obj\Debug\Projeto.Edson.DTO.csprojAssemblyReference.cache
+C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.DTO\obj\Debug\Projeto.Edson.DTO.csproj.CoreCompileInputs.cache
+C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.DTO\obj\Debug\Projeto.Edson.DTO.dll
+C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.DTO\obj\Debug\Projeto.Edson.DTO.pdb

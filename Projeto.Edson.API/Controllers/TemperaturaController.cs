@@ -23,9 +23,9 @@ namespace Projeto.Edson.API.Controllers
 
                 foreach (var cidade in cidades)
                 {
-                    string nomeCidade = cidade.TrimStart().TrimEnd();
+                    string nomeCidade = Consult.RemoverAcentos(cidade.TrimStart().TrimEnd());
 
-                    listaRetorno.AddRange(Consult.ListaDados.FindAll(x => x.Cidade == nomeCidade && x.DataHora >= DTO.DataInicial && x.DataHora <= DTO.DataFinal));
+                    listaRetorno.AddRange(Consult.ListaDados.FindAll(x => Consult.RemoverAcentos(x.Cidade.ToLower()) == nomeCidade.ToLower() && x.DataHora >= DTO.DataInicial && x.DataHora <= DTO.DataFinal));
                 }
 
                 listaRetorno = listaRetorno.OrderBy(x => x.DataHora).ToList();
@@ -35,7 +35,7 @@ namespace Projeto.Edson.API.Controllers
             }
             else
             {
-                response = Request.CreateResponse(System.Net.HttpStatusCode.NotFound, "Dados da consulta invalidos");
+                response = Request.CreateResponse(System.Net.HttpStatusCode.NotFound, "Dados da consulta invalidos.");
             }
 
             return response;

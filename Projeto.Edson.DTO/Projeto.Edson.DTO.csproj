@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Input\CidadeDTO.cs" />
+    <Compile Include="Input\ResultadoWaeMap.cs" />
     <Compile Include="Output\TemperaturaDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -2,12 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Web.Http;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Projeto.Edson.API;
 using Projeto.Edson.API.Controllers;
 using Projeto.Edson.DTO.Input;
 using Projeto.Edson.DTO.Output;
@@ -19,7 +16,7 @@ namespace Projeto.Edson.API.Tests.Controllers
     public class TemperaturaControllerTest
     {
         [TestMethod]
-        public void GetCorret()
+        public void GetTemperaturaAPITest()
         {
             //Chando servico consulta dados
             var consultaService = new Consult();
@@ -32,6 +29,8 @@ namespace Projeto.Edson.API.Tests.Controllers
             controller.Configuration = new HttpConfiguration();
 
             var consulta = new CidadeDTO();
+
+            //Cidades separadas por VIRGULA
             consulta.Cidades = "Florianópolis , São Paulo";
             consulta.DataInicial = DateTime.Now.AddDays(-1);
             consulta.DataFinal = DateTime.Now.AddDays(20);
