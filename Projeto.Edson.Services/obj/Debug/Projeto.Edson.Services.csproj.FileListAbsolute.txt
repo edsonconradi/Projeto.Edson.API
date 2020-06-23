@@ -1,0 +1,11 @@
+C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Projeto.Edson.Services.dll
+C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Projeto.Edson.Services.pdb
+C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\obj\Debug\Projeto.Edson.Services.csproj.CoreCompileInputs.cache
+C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\obj\Debug\Projeto.Edson.Services.dll
+C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\obj\Debug\Projeto.Edson.Services.pdb
+C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Newtonsoft.Json.dll
+C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Projeto.Edson.DTO.dll
+C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Projeto.Edson.DTO.pdb
+C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Newtonsoft.Json.xml
+C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\obj\Debug\Projeto.Edson.Services.csprojAssemblyReference.cache
+C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\obj\Debug\Projeto.Edson.Services.csproj.CopyComplete
