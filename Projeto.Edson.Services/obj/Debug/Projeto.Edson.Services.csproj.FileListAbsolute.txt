@@ -9,14 +9,3 @@ C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Projeto.Edson
 C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Newtonsoft.Json.xml
 C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\obj\Debug\Projeto.Edson.Services.csprojAssemblyReference.cache
 C:\ProjetoEdson\Projeto.Edson.API\Projeto.Edson.Services\obj\Debug\Projeto.Edson.Services.csproj.CopyComplete
-C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Projeto.Edson.Services.dll
-C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Projeto.Edson.Services.pdb
-C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Newtonsoft.Json.dll
-C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Projeto.Edson.DTO.dll
-C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Projeto.Edson.DTO.pdb
-C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.Services\bin\Debug\Newtonsoft.Json.xml
-C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.Services\obj\Debug\Projeto.Edson.Services.csprojAssemblyReference.cache
-C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.Services\obj\Debug\Projeto.Edson.Services.csproj.CoreCompileInputs.cache
-C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.Services\obj\Debug\Projeto.Edson.Services.csproj.CopyComplete
-C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.Services\obj\Debug\Projeto.Edson.Services.dll
-C:\Users\conra\Source\Repos\edsonconradi\Projeto.Edson.API\Projeto.Edson.Services\obj\Debug\Projeto.Edson.Services.pdb
