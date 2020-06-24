@@ -17,6 +17,12 @@ namespace Projeto.Edson.API.Controllers
 
             if (ModelState.IsValid)
             {
+
+                if(string.IsNullOrEmpty(DTO.Cidades))
+                {
+                   return  Request.CreateResponse(System.Net.HttpStatusCode.NotFound, "Nome cidade inválido");
+                }
+
                 List<TemperaturaDTO> listaRetorno = new List<TemperaturaDTO>();
 
                 List<string> cidades = new List<string>(DTO.Cidades.Split(','));

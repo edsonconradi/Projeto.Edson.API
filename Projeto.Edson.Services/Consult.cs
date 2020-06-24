@@ -19,12 +19,15 @@ namespace Projeto.Edson.Services
             Thread tr = new Thread(Processar);
             tr.Start();
         }
-
+        public static bool Carregado;
         public void Processar()
-        {
+        {            
             ObterDadosCidade("Florianópolis");
             ObterDadosCidade("São Paulo");
             ObterDadosCidade("Rio de Janeiro");
+
+            //Para ajudar no teste de unidade
+            Carregado = true;
 
             Thread.Sleep(900000);
 
